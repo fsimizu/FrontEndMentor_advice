@@ -15,3 +15,5 @@ const getAdvice = () => {
             console.log(data.slip.advice)
         })
 }
+
+getAdvice();
